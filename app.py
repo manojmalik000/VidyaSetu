@@ -12,7 +12,7 @@ st.set_page_config(
 # --- Page Title and Description ---
 st.title("🤖 VidyaSetu AI Bridge of knowledge")
 st.markdown("""
-Welcome to your personal AI tutor! Ask questions about your documents and get answers directly from the source material.
+Welcome to your personal AI tutor! Ask questions from THEMES IN WORLD HISTORY Textbook for Class XI only.
 """)
 
 # --- Application Logic ---
