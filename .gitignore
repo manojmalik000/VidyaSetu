@@ -14,3 +14,6 @@ wheels/
 
 # Envirmental Variables like Keys
 .env
+
+# my testing folder
+test/
