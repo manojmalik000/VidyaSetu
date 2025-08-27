@@ -27,8 +27,7 @@ This repository contains a Python-based pipeline that:
 - [Usage](#usage)
 - [Configuration & important variables](#configuration--important-variables)
 - [Troubleshooting](#troubleshooting)
-- [Development notes & next steps](#development-notes--next-steps)
-- [License](#license)
+
 
 ## Features
 
